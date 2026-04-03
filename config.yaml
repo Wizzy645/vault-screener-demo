@@ -1,0 +1,14 @@
+cookie:
+  expiry_days: 30
+  key: quant_trading_dashboard_key
+  name: quant_dashboard_cookie
+credentials:
+  usernames:
+    admin:
+      name: Administrator
+      password: $2b$12$pqYSUur2DcqDVkm4FDs3J.K7qM7GK.vXlQpsNgz1M303G1Yk3Jo86
+    demo_trader:
+      name: Demo Trader
+      password: $2b$12$pqYSUur2DcqDVkm4FDs3J.K7qM7GK.vXlQpsNgz1M303G1Yk3Jo86
+preauthorized:
+  emails: []

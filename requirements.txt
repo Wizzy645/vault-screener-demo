@@ -1,0 +1,20 @@
+# Core Streamlit Framework
+streamlit>=1.32.0
+
+# Authentication Layer
+streamlit-authenticator>=0.3.2
+
+# Data Fetching & Analysis
+yfinance>=0.2.37
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Data Visualization (Optional - for future charting)
+plotly>=5.19.0
+
+# Utility Libraries
+python-dotenv>=1.0.0
+pyyaml>=6.0.1
+
+# Performance & Caching
+requests>=2.31.0
